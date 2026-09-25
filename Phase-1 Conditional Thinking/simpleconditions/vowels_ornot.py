@@ -6,4 +6,4 @@ if len(char) == 1 and char.isalpha():
     else:
         print(f"'{char}' is a consonant.")
 else:
-    print("Invalid input. Please enter a single letter.")
+    print("Invalid input. Please enter a single letter")
